@@ -1,0 +1,11 @@
+https://github.com/42YerevanProjects/push_swap/tree/master/src
+
+https://github.com/YYBer/push_swap/tree/main/src
+
+https://github.com/sshiling/42-push_swap/tree/master/srcs
+
+https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
+https://github.com/byaliego/push_swap/tree/main/srcs/push_swap
+
+
